@@ -1,1 +1,1 @@
-This is a sample programm to see how git will work
+This is a sample programme code to see how git will work
